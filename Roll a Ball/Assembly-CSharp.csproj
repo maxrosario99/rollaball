@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\cameracontrol.cs" />
+     <Compile Include="Assets\scripts\obstaclemove.cs" />
      <Compile Include="Assets\scripts\playercontrol.cs" />
      <Compile Include="Assets\scripts\rotator.cs" />
  <Reference Include="Unity.Timeline.Editor">
